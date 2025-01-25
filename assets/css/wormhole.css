@@ -178,7 +178,7 @@ i {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url("/assets/img/yue.jpg");
+    background-image: url("./assets/img/yue.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
